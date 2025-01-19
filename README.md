@@ -83,4 +83,4 @@ Here's how you can contribute:
 
 ## License
 
-Distributed under the [AGPLv3 License](https://github.com/comuline/web/LICENSE). See `LICENSE` for more information.
+Distributed under the [AGPLv3 License](https://github.com/comuline/web/blob/main/LICENSE). See `LICENSE` for more information.
